@@ -1,0 +1,4 @@
+[build]
+  base = "neo-indian-exports"
+  command = "npm run build"
+  publish = "dist"
